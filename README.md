@@ -7,7 +7,7 @@
 
 <br/>
 
-<h3>🛡️ Network Security Tooling &nbsp;|&nbsp; 🐍 Python Systems Programming &nbsp;|&nbsp; 📡 Packet-Level Threat Detection</h3>
+<h3> Network Security Tooling &nbsp;|&nbsp;  Python Systems Programming &nbsp;|&nbsp;  Packet-Level Threat Detection</h3>
 
 <br/>
 
@@ -30,18 +30,18 @@
 
 <br/>
 
-## 👨‍💻 About Me
+##  About Me
 
 <table align="center">
 <tr>
 <td>
 
-- 🛡️ Building a **Python-based Network Intrusion Detection System (NIDS)** — live packet capture, real-time threat detection, and an auto-refreshing GUI dashboard
-- 🐧 Learning and building on **Kali Linux** — networking fundamentals, raw sockets, and offensive/defensive security concepts
-- 🧵 Comfortable with **multi-threaded Python** — thread-safe queues, locks, and separated capture/analysis pipelines
-- 🔍 Interested in how detection engines like **Snort & Suricata** work under the hood, and rebuilding that logic from first principles
-- 📊 Currently exploring: sliding-window rate-based threat detection, protocol classification, and SQLite-backed alerting systems
-- 💬 Ask me about **packet analysis, Scapy, port scan / brute-force detection, or Python systems design**
+-  Building a **Python-based Network Intrusion Detection System (NIDS)** — live packet capture, real-time threat detection, and an auto-refreshing GUI dashboard
+-  Learning and building on **Kali Linux** — networking fundamentals, raw sockets, and offensive/defensive security concepts
+-  Comfortable with **multi-threaded Python** — thread-safe queues, locks, and separated capture/analysis pipelines
+-  Interested in how detection engines like **Snort & Suricata** work under the hood, and rebuilding that logic from first principles
+-  Currently exploring: sliding-window rate-based threat detection, protocol classification, and SQLite-backed alerting systems
+-  Ask me about **packet analysis, Scapy, port scan / brute-force detection, or Python systems design**
 
 </td>
 </tr>
@@ -49,7 +49,7 @@
 
 <br/>
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <div align="center">
 
@@ -83,7 +83,7 @@
 
 <br/>
 
-## 📊 GitHub Analytics
+##  GitHub Analytics
 
 <div align="center">
 
@@ -104,7 +104,7 @@
 
 <div align="center">
 
-## 🏆 GitHub Trophies
+##  GitHub Trophies
 
 <img src="https://github-profile-trophy.vercel.app/?username=MuthuganeshSenthil&theme=darkhub&no-frame=true&row=1&column=7&margin-w=8" />
 
@@ -112,7 +112,7 @@
 
 <br/>
 
-## 🚀 Featured Project
+##  Featured Project
 
 <div align="center">
 
@@ -123,18 +123,18 @@
 </div>
 
 <div align="center">
-<sub>⚡ Detected a real UPnP port-scan probe on a live local network during testing — no simulated attack required.</sub>
+<sub> Detected a real UPnP port-scan probe on a live local network during testing — no simulated attack required.</sub>
 </div>
 
 <br/>
 
 <div align="center">
 
-## 🐍 Contribution Snake
+##  Contribution Snake
 
 <img src="https://raw.githubusercontent.com/MuthuganeshSenthil/MuthuganeshSenthil/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
-<sub>⚙️ Requires one-time GitHub Action setup — see note below</sub>
+<sub> Requires one-time GitHub Action setup — see note below</sub>
 
 </div>
 
@@ -144,7 +144,7 @@
 
 <div align="center">
 
-### 💭 "The best way to learn security is to build the tools that break it — and the ones that catch that."
+###  "The best way to learn security is to build the tools that break it — and the ones that catch that."
 
 <img src="https://img.shields.io/badge/Built%20on-Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
 
